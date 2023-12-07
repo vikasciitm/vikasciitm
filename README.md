@@ -1,4 +1,4 @@
-![logo](https://github.com/vikasciitm/vikasciitm/blob/main/pexels-negative-space-97077.jpg)
+![logo](https://github.com/vikasciitm/vikasciitm/blob/main/pexels-tima-miroshnichenko-5380607.jpg)
 
 <h1 align="center">Hi 👋, I'm VIKAS SAINI 😎</h1>
 <h3 align="center">India</h3>
