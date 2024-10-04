@@ -18,7 +18,7 @@
     <a href="https://instagram.com/vikas27503" target="blank"><img align="center"
             src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
             alt="vikas27503" height="30" width="40" /></a>
-    <a href="https://www.youtube.com/c/genius computer mv" target="blank"><img align="center"
+    <a href="http://www.youtube.com/@MMOC_TEACH" target="blank"><img align="center"
             src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg"
             alt="genius computer mv" height="30" width="40" /></a>
 </p>
